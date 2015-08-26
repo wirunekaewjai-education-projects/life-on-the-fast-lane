@@ -1,2 +1,2 @@
-# life-on-the-fast-lane
-Inifinite Runner Game (Unity 4)
+# Life on the fast lane
+Infinite Runner Game (Unity 4)
